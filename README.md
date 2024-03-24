@@ -13,4 +13,7 @@ This repository contains data analysis of a music store dataset using SQL. The d
 •Postgresql
 
 ****Schema of Database****
-![SQL Output 1](/sql output files/1.png)
+![SQL Output 1](/sql output files/1.png
+![SQL Output 1](/sql output files/1.png "output 1"))
+
+
