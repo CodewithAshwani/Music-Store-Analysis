@@ -13,7 +13,8 @@ This repository contains data analysis of a music store dataset using SQL. The d
 •Postgresql
 
 ****Schema of Database****
-![SQL Output 1](/sql output files/1.png
-![SQL Output 1](/sql output files/1.png "output 1"))
+![MusicDatabaseSchema](https://github.com/CodewithAshwani/music-analysis/assets/73930456/bd3b863f-3c6b-49d2-a8ab-1e08d9d8bd23)
+
+<img width="350" alt="modify schema" src="https://github.com/CodewithAshwani/music-analysis/assets/73930456/40fc3c5d-346c-4cb3-a62d-66b7d3a892c1">
 
 
