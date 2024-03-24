@@ -11,3 +11,6 @@ This repository contains data analysis of a music store dataset using SQL. The d
 **Tools used in this project :**
 •	MySQL
 •Postgresql
+
+****Schema of Database****
+![SQL Output 1](/sql output files/1.png)
